@@ -1,2 +1,2 @@
 #!/bin/bash
-grd "root" /etc/passwd |head -n 3
+grd "root" |head -n 3 /etc/passwd
